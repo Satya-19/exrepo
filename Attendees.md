@@ -6,6 +6,6 @@ e.g
 ```
 - ## Shibani Shankar Dash
 
-I am from Cuttack and I like to code
+I am from Cuttack and I am the human manifestation of an innhuman amount of hotness
 ```
 Add your introduction below:-
