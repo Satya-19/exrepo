@@ -6,7 +6,6 @@ e.g
 
 - ## Shibani Shankar Dash
 
-<<<<<<< HEAD
 I am from Cuttack and I am the human manifestation of an innhuman amount of hotness
 =======
 
