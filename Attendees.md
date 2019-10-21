@@ -3,13 +3,22 @@
 Enter your name, and write a few lines about yourself :)
 
 e.g
-```
+
 - ## Shibani Shankar Dash
 
-I am from Cuttack and I like to code
-```
+I am from Cuttack and I am the human manifestation of an inhuman amount of hotness
+
 Add your introduction below:-
  
 - ## Debashish kumar sahoo
 
 --Student at cet bbsr
+
+
+This is Gunjan Giri  
+
+From Rourkela .
+
+This is Anshu Kumar Tiwari
+
+From Baleswar.
