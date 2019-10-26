@@ -57,3 +57,7 @@ From Baleswar.
 
 I am from Berhampur
 
+# I am Sourajeet Mohanty
+
+*i do coding as a duty and not as a hobby, actually i dont like coding, i would rather prefer to go on a vacation than code and drink the stuff*.
+I rather believe that we should get busy living or get busy dying. 
