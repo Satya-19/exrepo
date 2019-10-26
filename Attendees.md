@@ -42,7 +42,7 @@ I am from Athagarh and I like to code as well.
  
 - ## Debashish kumar sahoo
 
---Student at cet bbsr
+--Student at cet bhubaneswar
 
 
 This is Gunjan Giri  
